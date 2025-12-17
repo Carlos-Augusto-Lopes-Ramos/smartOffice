@@ -1,4 +1,4 @@
-###Gerador de Dados de Smart Office
+# Gerador de Dados de Smart Office
 
 
 Este script em Python tem como objetivo gerar dados sintéticos de sensores de um ambiente de Smart Office (escritório inteligente). Os dados simulam leituras realistas de temperatura, luminosidade e ocupação, organizadas em intervalos regulares de tempo e exportadas para um arquivo CSV.
